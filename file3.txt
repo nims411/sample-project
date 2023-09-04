@@ -1,2 +1,3 @@
 file3.txt
 Update from branch1
+Update from branch2
